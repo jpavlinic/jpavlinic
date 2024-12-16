@@ -2,7 +2,7 @@
 
 👨‍💻 About Me
 
-Hi, I'm Josip Pavlinić, a passionate Java Developer with experience in front-end and back-end development. With hands-on work at ArisGlobal and ViveLaCar, and a Bachelor’s in Web & Mobile Computing from Rochester Institute of Technology, I’m ready to craft efficient, user-friendly solutions.
+Hi, I'm Josip Pavlinić, a passionate Java Developer with experience in front-end and back-end development. With hands-on work at ArisGlobal and ViveLaCar, and currently pursuing a Bachelor’s in Web & Mobile Computing from Rochester Institute of Technology, I’m ready to craft efficient, user-friendly solutions.
 
 
 🔧 Skills
