@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Josip Pavlinic
+- 👀 I’m interested in Software Development, specifically Java-related work
+- 🌱 I’m currently learning and working in many languages and technologies, but I am focusing on Java-related technologies
+- 💞️ I’m looking to collaborate on interesting IT projects and am willing to work
+- 📫 How to reach me: josip.pavlinic2@gmail.com
+- ⚡ Fun fact: I am a three-time Dean's List student at RIT
