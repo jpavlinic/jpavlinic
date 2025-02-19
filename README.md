@@ -9,7 +9,7 @@ Hi, I'm Josip Pavlinić, a passionate Java Developer with experience in front-en
 
 Languages:
 
-💪 Java (Advanced)
+💪 Java + Spring Boot (Advanced)
 
 ✨ JavaScript, PHP, HTML5, CSS, MySQL
 
@@ -25,7 +25,7 @@ Tools & Tech:
 
 Soft Skills:
 
-🔄 Agile Collaboration
+🔄 Agile, Kanban, Scrum
 
 ⚖️ Problem Solving
 
