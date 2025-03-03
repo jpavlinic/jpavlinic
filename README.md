@@ -87,7 +87,5 @@ Always exploring the latest tech trends and mastering new tools!
 
 📧 Email: josip.pavlinic2@gmail.com
 
-🛠️ Remote Work: Open for global B2B contracts!
-
 If you’re seeking a Java Developer who’s ready to make an impact, let's connect! 🌐
 
