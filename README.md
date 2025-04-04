@@ -36,7 +36,7 @@ Soft Skills:
 
 💼 Experience
 
-ViveLaCar Full-Stack Developer (Apr 2024 - Present)
+ViveLaCar Full-Stack Developer (Apr 2024 - March 2025)
 
 🔄 Built and optimized Magento apps using PHP, SCSS, HTML, and JavaScript
 
