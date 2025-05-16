@@ -57,7 +57,7 @@ ArisGlobal Full-Stack Developer (May 2023 - Feb 2024)
 
 Rochester Institute of Technology (2022 - Present)B.S. in Web & Mobile Computing
 
-💎 Dean’s List (3x)
+💎 Dean’s List (4x) - 2023, 2024, 2024, 2025
 
 🌐 Cumulative GPA: 3.5/4.0
 
