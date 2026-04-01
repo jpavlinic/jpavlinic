@@ -1,91 +1,20 @@
-# 🌐 README - Josip Pavlinić
+# Josip Pavlinić | Software Engineer
 
-👨‍💻 About Me
+Backend Developer specializing in Java, Spring Boot, and distributed system design. Experienced in building high-availability microservices with critical uptime requirements and large-scale daily throughput.
 
-Hi, I'm Josip Pavlinić, a passionate Java Developer with experience in front-end and back-end development. With hands-on work at ArisGlobal and ViveLaCar, and currently pursuing a Bachelor’s in Web & Mobile Computing from Rochester Institute of Technology, I’m ready to craft efficient, user-friendly solutions.
+---
 
+## 🔧 Tech Stack
 
-🔧 Skills
+**Backend:** Java · Spring Boot · PostgreSQL · Kafka · Redis · Elasticsearch · RabbitMQ · Kubernetes
 
-Languages:
+**Frontend:** Angular · React · Next.js
 
-💪 Java + Spring Boot (Advanced)
+**Tools:** Git · GitLab CI/CD · Jira · Confluence · Docker
 
-✨ JavaScript, PHP, HTML5, CSS, MySQL
+---
 
-🌐 React, C# (Beginner)
+## 📬 Contact
 
-Tools & Tech:
-
-🔎 Git, GitHub, GitLab
-
-⚒️ Jira, Confluence, Teams
-
-🌐 IntelliJ, Visual Studio Code
-
-Soft Skills:
-
-🔄 Agile, Kanban, Scrum
-
-⚖️ Problem Solving
-
-🔎 Debugging
-
-🔧 User-Centric Design
-
-
-💼 Experience
-
-ViveLaCar Full-Stack Developer (Apr 2024 - March 2025)
-
-🔄 Built and optimized Magento apps using PHP, SCSS, HTML, and JavaScript
-
-💬 Collaborated with a 10-person team, ensuring smooth project flow
-
-🌐 SEO-optimized projects for better visibility & conversions
-
-ArisGlobal Full-Stack Developer (May 2023 - Feb 2024)
-
-📊 Developed & maintained apps using Java, JavaScript, React, and CSS
-
-🔧 Debugged issues, ensuring top-notch performance
-
-🔄 Worked on fast-paced, Agile teams to meet client needs
-
-
-🎓 Education
-
-Rochester Institute of Technology (2022 - Present)B.S. in Web & Mobile Computing
-
-💎 Dean’s List (4x) - 2023, 2024, 2024, 2025
-
-🌐 Cumulative GPA: 3.5/4.0
-
-📊 Focus on Java, MySQL, JavaScript, and PHP
-
-🌐 Languages
-
-🇬🇧 English (Advanced)
-
-🇩🇪 German (Beginner)
-
-🇪🇸 Spanish (Beginner)
-
-
-🌟 Hobbies & Interests
-
-⚓ Water Polo
-
-Teamwork, Communication, Time Management, and Discipline!
-
-🔬 Learning
-
-Always exploring the latest tech trends and mastering new tools!
-
-
-📢 Let's Connect!
-
-📧 Email: josip.pavlinic2@gmail.com
-
-If you’re seeking a Java Developer who’s ready to make an impact, let's connect! 🌐
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/josippavlinic)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:josip.pavlinic2@gmail.com)
